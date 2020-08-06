@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OpenCV-face-detection/faces-creation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -89,18 +89,6 @@
               <item name="OpenCV-face-detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenCV-face-detection" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-face-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-face-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="hafsa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-face-detection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-face-detection" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="taha" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../OpenCV-face-detection/faces-creation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
